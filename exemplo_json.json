@@ -1,0 +1,66 @@
+{
+    "Nome": "Roberto",
+    "QuantidadeVendas": 67,
+    "Afiliados": [
+        {
+            "Nome": "Carlos",
+            "QuantidadeVendas": 47,
+            "Afiliados": [
+                {
+                    "Nome": "Maria",
+                    "QuantidadeVendas": 13,
+                    "Afiliados": [
+                        {
+                            "Nome": "Júlia",
+                            "QuantidadeVendas": 5,
+                            "Afiliados": []
+                        }
+                    ]
+                },
+                {
+                    "Nome": "Kleber",
+                    "QuantidadeVendas": 34,
+                    "Afiliados": []
+                }
+            ]
+        },
+        {
+            "Nome": "Marcos",
+            "QuantidadeVendas": 32,
+            "Afiliados": [
+                {
+                    "Nome": "Juan",
+                    "QuantidadeVendas": 27,
+                    "Afiliados": [
+                        {
+                            "Nome": "Larissa",
+                            "QuantidadeVendas": 17,
+                            "Afiliados": []
+                        },
+                        {
+                            "Nome": "Joana",
+                            "QuantidadeVendas": 8,
+                            "Afiliados": []
+                        }
+                    ]
+                },
+                {
+                    "Nome": "João",
+                    "QuantidadeVendas": 14,
+                    "Afiliados": [
+                        {
+                            "Nome": "Mateus",
+                            "QuantidadeVendas": 2,
+                            "Afiliados": []
+                        },
+                        {
+                            "Nome": "Wellington",
+                            "QuantidadeVendas": 1,
+                            "Afiliados": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
